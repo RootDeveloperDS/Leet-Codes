@@ -15,12 +15,11 @@ class Solution:
                 a, b = b, a % b
             return a
 
-        insert_next = head.next #deposit the actual next
-        #if head.next:# add new node bw the current head and head.next in next element.
-        head.next = ListNode(val=gcd(head.val, head.next.val), next = insert_next)
+        insert_next = head.next  # deposit the actual next
+        # add new node bw the current head and head.next in next element.
+        head.next = ListNode(val = gcd(head.val, head.next.val), next = insert_next)
 
-        #print(head.val)
-        #since we added interm node, so jump by 2 steps for next operating node.
+        # since we added interm node, so jump by 2 steps for next operating node.
         self.insertGreatestCommonDivisors(head.next.next)
 
         return head
