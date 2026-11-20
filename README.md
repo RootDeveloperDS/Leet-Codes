@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Two Pointers
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
