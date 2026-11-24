@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1352-product-of-the-last-k-numbers) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1352-product-of-the-last-k-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
