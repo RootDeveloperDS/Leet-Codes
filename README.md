@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0075-sort-colors/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0075-sort-colors/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -97,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/3411-maximum-subarray-with-equal-products) |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
