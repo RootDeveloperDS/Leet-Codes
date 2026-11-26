@@ -31,3 +31,11 @@ class Solution:
                 nums[high],nums[mid]=nums[mid],nums[high]
                 high-=1 # Do not increment mid; inspect the swapped element next
 
+'''2: Method
+
+A rather straight forward solution is a two-pass algorithm using counting sort.
+
+Iterate the array counting number of 0's, 1's, and 2's.
+
+Overwrite array with the total number of 0's, then 1's and followed by 2's.
+'''
