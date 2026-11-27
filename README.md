@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/3364-minimum-positive-sum-subarray) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0075-sort-colors/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3360-stone-removal-game](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/3360-stone-removal-game/) | Easy |
 ## Stack
