@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0075-sort-colors/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
