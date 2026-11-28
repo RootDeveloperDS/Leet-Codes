@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0912-sort-an-array](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0912-sort-an-array/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0075-sort-colors/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0912-sort-an-array](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0912-sort-an-array/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/RootDeveloperDS/Leet-Codes/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
@@ -117,4 +119,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/RootDeveloperDS/Leet-Codes/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
